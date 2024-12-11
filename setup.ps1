@@ -46,7 +46,8 @@ choco install -y adobereader
 choco install -y treesizefree
 choco install -y powertoys
 choco install -y warp
-choco install -y microsoft-windows-terminal --pre 
+choco install -y microsoft-windows-terminal --pre
+choco install -y nushell
 
 # Runtimes
 choco install -y silverlight
